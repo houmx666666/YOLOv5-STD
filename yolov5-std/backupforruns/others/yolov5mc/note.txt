@@ -1,0 +1,1 @@
+python train.py --data data/voc-fish.yaml --cfg models/yolov5mc.yaml --weights weights/yolov5m.pt --batch-size 8 --epochs 50

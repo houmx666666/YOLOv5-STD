@@ -1,0 +1,5 @@
+Requirement already satisfied: onnx in c:\users\dr.hou\anaconda3\envs\pytorch1.7\lib\site-packages (1.9.0)
+Requirement already satisfied: numpy>=1.16.6 in c:\users\dr.hou\anaconda3\envs\pytorch1.7\lib\site-packages (from onnx) (1.20.1)
+Requirement already satisfied: six in c:\users\dr.hou\anaconda3\envs\pytorch1.7\lib\site-packages (from onnx) (1.15.0)
+Requirement already satisfied: protobuf in c:\users\dr.hou\anaconda3\envs\pytorch1.7\lib\site-packages (from onnx) (3.14.0)
+Requirement already satisfied: typing-extensions>=3.6.2.1 in c:\users\dr.hou\anaconda3\envs\pytorch1.7\lib\site-packages (from onnx) (3.7.4.3)
