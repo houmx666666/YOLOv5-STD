@@ -8,7 +8,14 @@
 
 
 #Install
-cd yolov5
+cd YOLOv5-STD
 pip install -r requirements.txt  
+
+
+#Inference with detect.py
+python detect.py
+
+
+
 
 
