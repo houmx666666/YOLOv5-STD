@@ -4,3 +4,11 @@
 #Structure of YOLOv5-STD ia as follows:  
    
 ![Fig. 1](https://github.com/houmx666666/YOLOv5-STD/blob/main/Structure%20of%20YOLOv5-STD.jpg)
+
+
+
+#Install
+cd yolov5
+pip install -r requirements.txt  
+
+
