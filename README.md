@@ -12,7 +12,7 @@ cd YOLOv5-STD
 pip install -r requirements.txt  
 
 
-#Inference with detect.py
+#Inference with detect.py  
 python detect.py
 
 
