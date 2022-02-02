@@ -7,7 +7,7 @@
 
 
 
-#Install
+#Install  
 cd YOLOv5-STD  
 pip install -r requirements.txt  
 
