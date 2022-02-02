@@ -5,9 +5,9 @@
    
 ![Fig. 1](https://github.com/houmx666666/YOLOv5-STD/blob/main/Structure%20of%20YOLOv5-STD.jpg)
 
-#Install
-cd YOLOv5-STD
+#Install  
+cd YOLOv5-STD  
 pip install -r requirements.txt
 
-#Inference with detect.py
+#Inference with detect.py  
 python detect.py
